@@ -1,0 +1,11 @@
+.reviewer-container{
+  display: flex;
+  justify-content: space-around;
+  background-color: #a1fff5;
+  .left-flex-comp{
+    display: flex;
+  }
+  .right-flex-comp{
+    display: flex
+  }
+}
